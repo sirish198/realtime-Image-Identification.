@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+    box-shadow:5px 5px 5px lawngreen ;
+}
+.heading_div{
+    float: none;
+    background-color:burlywood;
+    color: darkorchid;
+    padding:10px;
+    box-shadow:5px 5px 5px deepskyblue;
+    font-size:20px ;
+}
+.heading_div2{
+    float: none;
+    padding:10px;
+    font-size:20px ;
+}
